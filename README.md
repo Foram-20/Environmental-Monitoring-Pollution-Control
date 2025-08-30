@@ -101,15 +101,6 @@ Data is transmitted to [ThingSpeak Channel]
 
 ---
 
-## 👨‍💻 Author
-
-**Muhammad Rizwan**  
-📫 Email: rizwan.m5414@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/)  
-
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
